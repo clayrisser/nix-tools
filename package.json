@@ -1,0 +1,16 @@
+{
+  "name": "nix-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open-terminal": "^0.1.10",
+    "serviceblend": "^0.2.10",
+    "workbelt": "^0.0.10"
+  }
+}
